@@ -1,12 +1,12 @@
-#Jika ingin me-run code dari Google Colab
-1. Buka link source code pada link: https://bit.ly/Learning_IF4409_10
-2. Import file 'traintest.xlsx' terlebih dahulu ke dalam Google Colab
-3. Run semua cell yang ada pada Google Colab
-4. Output dapat dilihat pada cell paling terakhir
-5. File Excel output dapat di-download dari Google Colab pada bagian kiri Google Colab pada tab Files.
+#If you want to run code from Google Colab
+1. Open the source code link on the link: https://bit.ly/Learning_IF4409_10
+2. Import the 'traintest.xlsx' file into Google Colab first
+3. Run all the cells in Google Colab
+4. Output can be seen in the last cell
+5. The output Excel file can be downloaded from Google Colab on the left side of Google Colab on the Files tab.
 
-#Jika ingin me-run code dari terminal
-1. Pastikan pada PC Anda telah ter-install library panda, numpy, matplotlib, dan seaborn.
-2. Pastikan sudah terdapat file 'traintest.xlsx'
-3. Buka terminal dan sesuaikan path pada file anda
-4. Ketikkan command "python (namaFile).py"
+#If you want to run the code from the terminal
+1. Make sure you have the pandas, numpy, matplotlib, and seaborn libraries installed on your PC.
+2. Make sure there is a 'traintest.xlsx' file
+3. Open a terminal and adjust the path to your file
+4. Type the command "python (filename).py"
